@@ -112,7 +112,7 @@ td {
     padding: 10px;
     text-align: left;
     background-color: gray
-    border-radius: 4px;
+    border-radius 4px;
 }
 
 th {
